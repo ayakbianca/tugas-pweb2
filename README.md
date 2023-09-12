@@ -6,4 +6,4 @@ Pemrograman Web G
 
 #Demo
 
-![Screenshot (685)](https://github.com/ayakbianca/tugas-pweb2/assets/143981808/e0143714-197c-4ed7-8e6c-644dec70d3e0)
+![Screenshot 2023-09-12 074401](https://github.com/ayakbianca/tugas-pweb2/assets/143981808/65480c22-3b6d-43a0-b2b0-064a46e3c341)
